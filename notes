@@ -1,0 +1,9 @@
+function text2Speech(text)
+            {
+                const synth = window.speechSynthesis;
+                const utterance = new SpeechSynthesisUtterance(text);
+                synth.speak(utterance)
+            }
+
+            text2Speech(result)
+        

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auri - Musik Abspielen</title>
+</head>
+<body onload="startWakeWordDetection(), speak('Auri ist auf Standby, sage Auri um Auri zu wieder zu aktivieren')">
+    <audio style="visibility: hidden;" id="audioPlayer" controls></audio>
+    <audio id="alarmSound" src="wecker/alarm.mp3"></audio>
+
+    <script>
+        const recognition = new window.webkitSpeechRecognition();
+        recognition.continuous = true;
+        recognition.interimResults = false;
+        let isListening = false;
+        const synth = window.speechSynthesis;
+        let standbyTimeout;
+        
+        const defaultCity = "Bruneck";
+        const apiKey = "fb3f6a72e626cabc405593ad14d235e0";
+        const availableSongs = [
+            "alles nur geklaut", "apt", "billie jean", "never gonna give you up", "somebody that i used to know"
+        ];
+
+        function startWakeWordDetection() {
+            recognition.start();
+            console.log("Warte auf 'Auri'...");
+        }
+
+        function speak(text) {
+            let utterance = new SpeechSynthesisUtterance(text);
+            synth.speak(utterance);
+        }
+
+        async function askChatGPT(question) {
+            const apiUrl = 'https://api.openai.com/v1/chat/completions';
+            const response = await fetch(apiUrl, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${openaiApiKey}`
+                },
+                body: JSON.stringify({
+                    model: 'gpt-3.5-turbo',
+                    messages: [
+                        { role: 'system', content: "Du bist ein Sprachassistent wie Alexa. Bitte antworte auf jede Frage so einfach, dass es auch ein 4 jähriges Kind versteht. Bitte antworte immer bildlich, gebe ein Beispiel." },
+                        { role: 'user', content: question }
+                    ],
+                    max_tokens: 150
+                })
+            });
+            if (!response.ok) {
+                let errorText = await response.text();
+                console.error("API-Fehler:", errorText);
+                throw new Error(`Fehler: ${response.statusText} - ${errorText}`);
+            }
+            
+            const data = await response.json();
+            return data.choices[0].message.content.trim();
+        }
+
+        recognition.onresult = async (event) => {
+            let transcript = event.results[event.results.length - 1][0].transcript.toLowerCase();
+            console.log("Gesagt:", transcript);
+            
+            if (!isListening && transcript.includes("auri")) {
+                isListening = true;
+                speak("Ja, wie kann ich helfen?");
+                console.log("Auri aktiviert! Jetzt auf Befehle warten...");
+                window.location = "./main.html"
+                clearTimeout(standbyTimeout);
+                standbyTimeout = setTimeout(() => {
+                    isListening = false;
+                    console.log("Zurück in den Standby-Modus...");
+                }, 15000);
+            } else if (isListening) {
+                if (transcript.includes("frage")) {
+                    let question = transcript.replace("frage chatgpt", "").trim();
+                    if (question.length > 0) {
+                        let answer = await askChatGPT(question);
+                        speak(answer);
+                    }
+                }
+                else if (transcript.includes("frage chatgpt")) {
+                    let question = transcript.replace("frage chatgpt", "").trim();
+                    if (question.length > 0) {
+                        let answer = await askChatGPT(question);
+                        speak(answer);
+                    }
+                }
+
+                else {
+                    processCommand(transcript);
+                }
+            }
+        };
+
+        recognition.onend = () => {
+            if (!isListening) {
+                setTimeout(() => recognition.start(), 500);
+            }
+        };
+
+        function processCommand(command) {
+            if (command.includes("spiele")) {
+                let song = availableSongs.find(s => command.includes(s));
+                if (song) {
+                    document.getElementById("audioPlayer").src = "music/" + song + ".mp3";
+                    document.getElementById("audioPlayer").play();
+                    speak("Ich spiele " + song);
+                }
+            } else if (command.includes("stopp")) {
+                document.getElementById("audioPlayer").pause();
+                speak("Musik gestoppt");
+            } else if (command.includes("wecker")) {
+                document.getElementById("alarmSound").play();
+                speak("Wecker aktiviert");
+            }
+            clearTimeout(standbyTimeout);
+            standbyTimeout = setTimeout(() => {
+                isListening = false;
+                console.log("Zurück in den Standby-Modus...");
+            }, 15000);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iLexa - Musik Abspielen</title>
+</head>
+<body onload="startAnalyseText()">
+
+    <button onclick="startAnalyseText()">Starte Aufzeichnung</button>
+    <audio style="visibility: hidden;" id="audioPlayer" controls></audio>
+    <audio id="alarmSound" src="wecker/alarm.mp3"></audio>
+
+    <script>
+        const recognition = new window.webkitSpeechRecognition();
+        let lastSpokenText = '';  
+        let alarmTime = null;  
+
+        const defaultCity = "Bruneck";  
+        const apiKey = "fb3f6a72e626cabc405593ad14d235e0";  
+        const openaiApiKey = "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";  
+
+        const availableSongs = [
+            "alles nur geklaut", "apt", "billie jean", "never gonna give you up", "wellermann remix", "erika laut", "erika", "despacito", "somebody that i used to know", "stressed out", "heathens", "ride"
+        ];
+
+        recognition.onresult = function(event) {
+            const result = event.results[event.resultIndex][0].transcript.toLowerCase();
+            console.log('Text erkannt:', result);
+
+            if (result === "hallo") {
+                setTimeout(() => {
+                    lastSpokenText = "Hi! Ich stehe dir gerne zur Verfügung!";
+                    text2Speech(lastSpokenText);
+                }, 1000); 
+
+            } else if (result.startsWith("spiele")) {
+                const songName = result.replace("spiele", "").trim();
+                playSong(songName);
+
+            } else if (result === "wiederhole das") {
+                if (lastSpokenText) {
+                    setTimeout(() => text2Speech(lastSpokenText), 1000);
+                } else {
+                    text2Speech("Es gibt nichts zu wiederholen.");
+                }
+
+            } else if (result === "stopp") {
+                stopMusic();
+
+            } else if (result.includes("sekunden zurück")) {
+                const match = result.match(/(\d+)\s*sekunden\s*zurück/i);
+                if (match) rewindSeconds(parseInt(match[1]));
+
+            } else if (result.includes("sekunden vor")) {
+                const match = result.match(/(\d+)\s*sekunden\s*vor/i);
+                if (match) forwardSeconds(parseInt(match[1]));
+
+            } else if (result.includes("wetter in")) {
+                getWeather(result.replace("wetter in", "").trim());
+
+            } else if (result.includes("wie wird das wetter")) {
+                if (result.includes("heute")) {
+                    getWeather(defaultCity, "heute");
+                } else if (result.includes("morgen")) {
+                    getWeather(defaultCity, "morgen");
+                } else {
+                    getWeather(result.replace("wie wird das wetter in", "").trim());
+                }
+
+            } else if (result.includes("wecker auf")) {
+                setAlarm(result);
+
+            }
+            if(result == "standby")
+            {
+                window.location = "./index.html"
+            } 
+            else {
+                askAI(result);
+            }
+        };
+
+        function startAnalyseText() {
+            recognition.continuous = true;
+            recognition.interimResults = false;
+            recognition.start();
+        
+            recognition.onend = () => {
+                recognition.start(); // Neustarten, falls gestoppt
+            };
+        }
+        
+
+        function text2Speech(text) {
+            const synth = window.speechSynthesis;
+            const utterance = new SpeechSynthesisUtterance(text);
+            synth.speak(utterance);
+        }
+
+        function playSong(songName) {
+            if (availableSongs.includes(songName.toLowerCase())) {
+                const audioPlayer = document.getElementById('audioPlayer');
+                audioPlayer.src = `music/${songName}.mp3`;
+                audioPlayer.play();
+                lastSpokenText = `Ich spiele jetzt das Lied ${songName}.`;
+                text2Speech(lastSpokenText);
+            } else {
+                text2Speech("Entschuldigung, dieses Lied ist nicht verfügbar.");
+            }
+        }
+
+        function stopMusic() {
+            const audioPlayer = document.getElementById('audioPlayer');
+            audioPlayer.pause();
+            audioPlayer.currentTime = 0;
+            text2Speech("Die Musik wurde gestoppt.");
+        }
+
+        function rewindSeconds(seconds) {
+            const audioPlayer = document.getElementById('audioPlayer');
+            audioPlayer.currentTime = Math.max(audioPlayer.currentTime - seconds, 0);
+            text2Speech(`Ich habe die Musik um ${seconds} Sekunden zurückgespult.`);
+        }
+
+        function forwardSeconds(seconds) {
+            const audioPlayer = document.getElementById('audioPlayer');
+            audioPlayer.currentTime = Math.min(audioPlayer.currentTime + seconds, audioPlayer.duration);
+            text2Speech(`Ich habe die Musik um ${seconds} Sekunden vorgespult.`);
+        }
+
+        function getWeather(city = defaultCity, day = "heute") {
+            const url = `https://api.openweathermap.org/data/2.5/forecast?q=${city}&appid=${apiKey}&units=metric&lang=de`;
+
+            fetch(url)
+                .then(response => response.json())
+                .then(data => {
+                    let weatherInfo = "";
+
+                    if (data.cod === "200") {
+                        const today = new Date();
+                        let targetDate = (day === "morgen") ? new Date(today.getTime() + 24 * 60 * 60 * 1000) : today;
+                        const dateString = targetDate.toISOString().split("T")[0];
+
+                        const weatherForDay = data.list.filter(item => item.dt_txt.startsWith(dateString));
+
+                        if (weatherForDay.length > 0) {
+                            const weatherDescription = weatherForDay[0].weather[0].description;
+                            const temperature = weatherForDay[0].main.temp;
+                            const humidity = weatherForDay[0].main.humidity;
+                            weatherInfo = `Das Wetter ${day} in ${city} ist ${weatherDescription}, bei ${temperature.toFixed(1)} Grad Celsius und ${humidity}% Luftfeuchtigkeit.`;
+                        } else {
+                            weatherInfo = `Keine Wetterdaten für ${day} verfügbar.`;
+                        }
+                    } else {
+                        weatherInfo = "Fehler bei der Wetterabfrage.";
+                    }
+
+                    text2Speech(weatherInfo);
+                })
+                .catch(error => {
+                    console.error('Fehler:', error);
+                    text2Speech("Fehler bei der Verbindung zum Wetterdienst!");
+                });
+        }
+
+        function setAlarm(result) {
+            const match = result.match(/wecker auf (\d{1,2}):(\d{2})/);
+            if (match) {
+                alarmTime = `${match[1].padStart(2, '0')}:${match[2]}`;
+                text2Speech(`Wecker auf ${alarmTime} gestellt.`);
+            } else {
+                text2Speech("Ich habe die Weckerzeit nicht verstanden.");
+            }
+        }
+
+        function checkAlarm() {
+            const now = new Date();
+            const currentTime = `${now.getHours().toString().padStart(2, '0')}:${now.getMinutes().toString().padStart(2, '0')}`;
+
+            if (alarmTime === currentTime) {
+                text2Speech(`Es ist jetzt ${alarmTime}`);
+                document.getElementById('alarmSound').play();
+                alarmTime = null;  
+            }
+        }
+
+        setInterval(checkAlarm, 1000);
+
+    </script>
+
+</body>
+</html>

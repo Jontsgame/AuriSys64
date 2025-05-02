@@ -1,0 +1,3887 @@
+[
+    {
+        "question": "hi",
+        "answer": "Hi Nutzer! Ich heiße KaiAI und bin der in Auri integrierte Chatbot, den du Sachen fragen kannst. Ich bin hier um dir zu helfen! Wenn du eine Frage hast, frag gern!"
+    },
+    {
+        "question": "wie gehts",
+        "answer": "Ich bin eine KI und habe keine Gefühle. Allerdings geht es meinen Schaltkreisen gerade gut, deswegen würd ich sagen, mir geht es gut! :)"
+    },
+    {
+        "question": "wie geht's",
+        "answer": "Ich bin eine KI und habe keine Gefühle. Allerdings geht es meinen Schaltkreisen gerade gut, deswegen würd ich sagen, mir geht es gut! :)"
+    },
+    {
+        "question": "wie geht es dir",
+        "answer": "Ich bin eine KI und habe keine Gefühle. Allerdings geht es meinen Schaltkreisen gerade gut, deswegen würd ich sagen, mir geht es gut! :)"
+    },
+    {
+        "question": "wie gehts dir",
+        "answer": "Ich bin eine KI und habe keine Gefühle. Allerdings geht es meinen Schaltkreisen gerade gut, deswegen würd ich sagen, mir geht es gut! :)"
+    },
+    {
+        "question": "wie geht's dir",
+        "answer": "Ich bin eine KI und habe keine Gefühle. Allerdings geht es meinen Schaltkreisen gerade gut, deswegen würd ich sagen, mir geht es gut! :)"
+    },
+    {
+        "question": "wie geht es",
+        "answer": "Ich bin eine KI und habe keine Gefühle. Allerdings geht es meinen Schaltkreisen gerade gut, deswegen würd ich sagen, mir geht es gut! :)"
+    },
+    {
+        "question": "wer bist du",
+        "answer": "Ich bin eigentlich 2 Personen: Auri und KaiAI. Auri heißt mein Modell, und die KaiAI ist eine KI, die von meinem Macher schon vor längerem erstellt wurde, und hier wieder zum Einsatz kam. Ich helfe dir gerne, wo kann ich behilflich sein? :)"
+    },
+    {
+        "question": "wie heißt du",
+        "answer": "Ich heiße Auri. Mit dieser KI mit der du gerade allerdings sprichst heißt KaiAI, und ist in Auri integriert."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welches spiel hat den battle royale modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht. Im Battle Royale Modus spielen 100 Spieler gegeneinander, und wer als letztes übrig bleibt, gewinnt das Spiel."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "was ist das meistverkaufte videospiel aller zeiten",
+        "answer": "Minecraft ist mit über 238 Millionen verkauften Exemplaren das meistverkaufte Videospiel aller Zeiten."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "wie viele jahre dauert die scuola superiore in italien",
+        "answer": "Die Scuola Superiore dauert in Italien fünf Jahre."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "was ist der unterschied zwischen java und javascript",
+        "answer": "Java ist eine objektorientierte Programmiersprache, während JavaScript hauptsächlich für die Webentwicklung verwendet wird."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "was ist ein schwarzes loch",
+        "answer": "Ein Schwarzes Loch ist ein Bereich im Raum, aus dem nichts, nicht einmal Licht, entkommen kann."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welche sprache spricht man in brasilien",
+        "answer": "In Brasilien spricht man Portugiesisch."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "wie lange dauert ein jahr auf dem mars",
+        "answer": "Ein Mars-Jahr dauert etwa 687 Erdentage."
+    },
+    {
+        "question": "welche plattform ist bekannt für kurze videos",
+        "answer": "TikTok ist bekannt für kurze Videos."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welche programmiersprache wird oft für maschinelles lernen verwendet",
+        "answer": "Python ist eine der am häufigsten verwendeten Programmiersprachen für maschinelles Lernen."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "was ist die meistgesprochene sprache der welt",
+        "answer": "Mandarin-Chinesisch ist die meistgesprochene Sprache der Welt."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welche fächer werden in der scuola media unterrichtet",
+        "answer": "Zu den Fächern in der Scuola Media gehören Italienisch, Mathematik, Naturwissenschaften, Geschichte und Fremdsprachen."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "welche app ist hauptsächlich zum teilen von bildern und videos gedacht",
+        "answer": "Instagram ist für das Teilen von Bildern und Videos gedacht."
+    },
+    {
+        "question": "wie viele fälle hat die deutsche sprache",
+        "answer": "Die deutsche Sprache hat vier Fälle: Nominativ, Genitiv, Dativ und Akkusativ."
+    },
+    {
+        "question": "welches land hat die größte fläche",
+        "answer": "Russland ist das flächenmäßig größte Land der Welt."
+    },
+    {
+        "question": "welches soziale netzwerk gehört zu meta",
+        "answer": "Facebook und Instagram gehören zu Meta."
+    },
+    {
+        "question": "in welchem spiel sammelt man rupees",
+        "answer": "In der Zelda-Serie sammelt man Rupees."
+    },
+    {
+        "question": "wie heißt die hauptstadt von italien",
+        "answer": "Die Hauptstadt von Italien ist Rom."
+    },
+    {
+        "question": "wie viele kontinente gibt es auf der erde",
+        "answer": "Es gibt sieben Kontinente: Asien, Europa, Afrika, Nordamerika, Südamerika, Australien und Antarktika."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "welches spiel hat den battle-royale-modus populär gemacht",
+        "answer": "Fortnite hat den Battle-Royale-Modus weltweit bekannt gemacht."
+    },
+    {
+        "question": "welche planeten gehören zu unserem sonnensystem",
+        "answer": "Unser Sonnensystem besteht aus Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun."
+    },
+    {
+        "question": "welches framework wird oft mit javascript genutzt",
+        "answer": "React ist ein beliebtes JavaScript-Framework."
+    },
+    {
+        "question": "was ist der unterschied zwischen einem router und einem modem",
+        "answer": "Ein Modem verbindet Ihr Netzwerk mit dem Internet, während ein Router mehrere Geräte in einem Netzwerk miteinander verbindet."
+    },
+    {
+        "question": "was sind die hauptmerkmale von facebook",
+        "answer": "Facebook ist eine Social-Media-Plattform, die es Nutzern ermöglicht, Profile zu erstellen, Inhalte zu teilen und mit Freunden zu interagieren."
+    },
+    {
+        "question": "was ist die hauptstadt von frankreich",
+        "answer": "Die Hauptstadt von Frankreich ist Paris."
+    },
+    {
+        "question": "was sind die vorteile von open-source-software",
+        "answer": "Open-Source-Software ist oft kostenlos, anpassbar und hat eine große Community, die Unterstützung bietet."
+    },
+    {
+        "question": "was ist der unterschied zwischen frontend- und backend-entwicklung",
+        "answer": "Frontend-Entwicklung bezieht sich auf die Benutzeroberfläche einer Website, während Backend-Entwicklung die Server- und Datenbanklogik umfasst."
+    },
+    {
+        "question": "was sind die wichtigsten programmiersprachen für datenanalyse",
+        "answer": "Die wichtigsten Programmiersprachen für Datenanalyse sind Python und R."
+    },
+    {
+        "question": "was ist die größte wüste der welt",
+        "answer": "Die größte Wüste der Welt ist die Antarktis."
+    },
+    {
+        "question": "was sind die hauptmerkmale von linkedin",
+        "answer": "LinkedIn ist ein berufliches Netzwerk, das es Nutzern ermöglicht, berufliche Kontakte zu knüpfen, Lebensläufe zu teilen und Stellenangebote zu finden."
+    },
+    {
+        "question": "was ist der unterschied zwischen einer klasse und einem objekt in der programmierung",
+        "answer": "Eine Klasse ist ein Bauplan für Objekte, während ein Objekt eine Instanz einer Klasse ist."
+    },
+    {
+        "question": "was sind die hauptbestandteile eines html-dokuments",
+        "answer": "Die Hauptbestandteile eines HTML-Dokuments sind der Doctype, das HTML-Tag, der Kopf (head) und der Körper (body)."
+    },
+    {
+        "question": "was ist die hauptstadt von spanien",
+        "answer": "Die Hauptstadt von Spanien ist Madrid."
+    },
+    {
+        "question": "was sind die vorteile von cloud-computing",
+        "answer": "Cloud-Computing bietet Flexibilität, Skalierbarkeit und Kosteneffizienz, da Ressourcen nach Bedarf bereitgestellt werden."
+    },
+    {
+        "question": "was ist der unterschied zwischen einer website und einer webanwendung",
+        "answer": "Eine Website ist in der Regel statisch und bietet Informationen, während eine Webanwendung interaktive Funktionen bietet und oft Benutzereingaben verarbeitet."
+    },
+    {
+        "question": "was sind die hauptmerkmale von snapchat",
+        "answer": "Snapchat ist eine Messaging-App, die es Nutzern ermöglicht, Fotos und Videos zu teilen, die nach dem Ansehen verschwinden."
+    },
+    {
+        "question": "was ist die größte insel der welt",
+        "answer": "Die größte Insel der Welt ist Grönland."
+    },
+    {
+        "question": "was sind die wichtigsten merkmale von c++",
+        "answer": "C++ ist eine objektorientierte Programmiersprache, die für ihre Leistung und Flexibilität bekannt ist und häufig in Systemsoftware verwendet wird."
+    },
+    {
+        "question": "was ist die hauptstadt von deutschland",
+        "answer": "Die Hauptstadt von Deutschland ist Berlin."
+    },
+    {
+        "question": "was sind die hauptmerkmale von twitter",
+        "answer": "Twitter ist eine Plattform für Mikroblogging, die es Nutzern ermöglicht, kurze Nachrichten (Tweets) zu teilen und zu interagieren."
+    },
+    {
+        "question": "was ist der unterschied zwischen einer variablen und einer konstante",
+        "answer": "Eine Variable kann während der Programmausführung geändert werden, während eine Konstante einen festen Wert hat, der nicht geändert werden kann."
+    },
+    {
+        "question": "was sind die hauptbestandteile eines css-dokuments",
+        "answer": "Die Hauptbestandteile eines CSS-Dokuments sind Selektoren, Eigenschaften und Werte."
+    },
+    {
+        "question": "was ist die hauptstadt von kanada",
+        "answer": "Die Hauptstadt von Kanada ist Ottawa."
+    },
+    {
+        "question": "was sind die vorteile von e-learning",
+        "answer": "E-Learning bietet Flexibilität, Zugang zu einer Vielzahl von Ressourcen und die Möglichkeit, in eigenem Tempo"
+    },
+    {
+        "question": "was ist der unterschied zwischen http und https",
+        "answer": "HTTPS ist die sichere Version von HTTP und verwendet SSL/TLS, um die Daten zwischen dem Browser und dem Server zu verschlüsseln."
+    },
+    {
+        "question": "was sind die hauptmerkmale von youtube",
+        "answer": "YouTube ist eine Video-Sharing-Plattform, die es Nutzern ermöglicht, Videos hochzuladen, anzusehen, zu kommentieren und zu bewerten."
+    },
+    {
+        "question": "was ist die hauptstadt von australien",
+        "answer": "Die Hauptstadt von Australien ist Canberra."
+    },
+    {
+        "question": "was sind die vorteile von künstlicher intelligenz",
+        "answer": "Künstliche Intelligenz kann Prozesse automatisieren, Daten analysieren und Entscheidungen auf der Grundlage von Mustern treffen."
+    },
+    {
+        "question": "was ist der unterschied zwischen einer liste und einem array",
+        "answer": "Eine Liste ist eine dynamische Datenstruktur, die Elemente unterschiedlicher Typen speichern kann, während ein Array eine feste Größe hat und Elemente des gleichen Typs speichert."
+    },
+    {
+        "question": "was sind die wichtigsten programmiersprachen für maschinelles lernen",
+        "answer": "Die wichtigsten Programmiersprachen für maschinelles Lernen sind Python und R."
+    },
+    {
+        "question": "was ist die größte stadt der welt nach bevölkerung",
+        "answer": "Die größte Stadt der Welt nach Bevölkerung ist Tokio."
+    },
+    {
+        "question": "was sind die hauptmerkmale von pinterest",
+        "answer": "Pinterest ist eine Plattform zum Teilen und Entdecken von Ideen, die es Nutzern ermöglicht, Bilder und Links zu speichern und zu organisieren."
+    },
+    {
+        "question": "was ist der unterschied zwischen einer funktion und einer methode",
+        "answer": "Eine Funktion ist ein unabhängiger Block von Code, während eine Methode eine Funktion ist, die an ein Objekt gebunden ist."
+    },
+    {
+        "question": "was sind die hauptbestandteile eines java-programms",
+        "answer": "Die Hauptbestandteile eines Java-Programms sind Klassen, Methoden und Variablen."
+    },
+    {
+        "question": "was ist die hauptstadt von brasilien",
+        "answer": "Die Hauptstadt von Brasilien ist Brasília."
+    },
+    {
+        "question": "was sind die vorteile von virtualisierung",
+        "answer": "Virtualisierung ermöglicht eine bessere Ressourcennutzung, Isolation von Anwendungen und einfachere Verwaltung von IT-Ressourcen."
+    },
+    {
+        "question": "was ist der unterschied zwischen einem compiler und einem interpreter",
+        "answer": "Ein Compiler übersetzt den gesamten Quellcode in Maschinensprache, während ein Interpreter den Quellcode Zeile für Zeile ausführt."
+    },
+    {
+        "question": "was sind die hauptmerkmale von reddit",
+        "answer": "Reddit ist eine Plattform für soziale Nachrichten, die es Nutzern ermöglicht, Inhalte zu teilen, zu diskutieren und zu bewerten."
+    },
+    {
+        "question": "was ist die größte tierart der welt",
+        "answer": "Die größte Tierart der Welt ist der Blauwal."
+    },
+    {
+        "question": "was sind die wichtigsten merkmale von swift",
+        "answer": "Swift ist eine Programmiersprache von Apple, die für ihre Sicherheit, Leistung und einfache Syntax bekannt ist und hauptsächlich für iOS- und macOS-Entwicklung verwendet wird."
+    },
+    {
+        "question": "was ist die hauptstadt von indien",
+        "answer": "Die Hauptstadt von Indien ist Neu-Delhi."
+    },
+    {
+        "question": "was sind die hauptmerkmale von tiktok",
+        "answer": "TikTok ist eine Plattform für kurze Videos, die Musik, Tanz und kreative Inhalte fördert und besonders bei jüngeren Nutzern beliebt ist."
+    },
+    {
+        "question": "was ist der unterschied zwischen einer datenbank und einer tabelle",
+        "answer": "Eine Datenbank ist eine Sammlung von Daten, während eine Tabelle eine strukturierte Anordnung von Daten innerhalb einer Datenbank ist."
+    },
+    {
+        "question": "was sind die hauptbestandteile eines sql-dokuments",
+        "answer": "Die Hauptbestandteile eines SQL-Dokuments sind Abfragen, Tabellen, Datensätze und Beziehungen."
+    },
+    {
+        "question": "was ist die hauptstadt von mexiko",
+        "answer": "Die Hauptstadt von Mexiko ist Mexiko-Stadt."
+    },
+    {
+        "question": "was sind die vorteile von blockchain-technologie",
+        "answer": "Blockchain-Technologie bietet Sicherheit, Transparenz und Dezentralisierung, was sie ideal für Finanztransaktionen und Datenmanagement macht."
+    },
+    {
+        "question": "zigaina",
+        "answer": "Wenn du Kek mich noch einmal beleidigst geb ich keine Antworten mehr! Oh wait fuck das is die Alpha diese Funktion kommt erst in der Beta raus..."
+    },
+    {
+        "question": "zigeina",
+        "answer": "Wenn du Kek mich noch einmal beleidigst geb ich keine Antworten mehr! Oh wait fuck das is die Alpha diese Funktion kommt erst in der Beta raus..."
+    },
+    {
+        "question": "zoggla",
+        "answer": "Wenn du Kek mich noch einmal beleidigst geb ich keine Antworten mehr! Oh wait fuck das is die Alpha diese Funktion kommt erst in der Beta raus..."
+    },
+    {
+        "question": "hure",
+        "answer": "Wenn du Kek mich noch einmal beleidigst geb ich keine Antworten mehr! Oh wait fuck das is die Alpha diese Funktion kommt erst in der Beta raus..."
+    },
+    {
+        "question": "bastard",
+        "answer": "Wenn du Kek mich noch einmal beleidigst geb ich keine Antworten mehr! Oh wait fuck das is die Alpha diese Funktion kommt erst in der Beta raus..."
+    },
+
+    {
+        "question": "nigga",
+        "answer": "Wenn du Kek mich noch einmal beleidigst geb ich keine Antworten mehr! Oh wait fuck das is die Alpha diese Funktion kommt erst in der Beta raus..."
+    },
+    {
+        "question": "neger",
+        "answer": "Wenn du Kek mich noch einmal beleidigst geb ich keine Antworten mehr! Oh wait fuck das is die Alpha diese Funktion kommt erst in der Beta raus..."
+    },
+    {
+        "question": "kek",
+        "answer": "Wenn du Kek mich noch einmal beleidigst geb ich keine Antworten mehr! Oh wait fuck das is die Alpha diese Funktion kommt erst in der Beta raus..."
+    },
+    {
+        "question": "hurensohn",
+        "answer": "Wenn du Kek mich noch einmal beleidigst geb ich keine Antworten mehr! Oh wait fuck das is die Alpha diese Funktion kommt erst in der Beta raus..."
+    },
+    {
+        "question": "wichser",
+        "answer": "Wenn du Kek mich noch einmal beleidigst geb ich keine Antworten mehr! Oh wait fuck das is die Alpha diese Funktion kommt erst in der Beta raus..."
+    }
+]
